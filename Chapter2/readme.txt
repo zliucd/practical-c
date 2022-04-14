@@ -1,0 +1,1 @@
+When using cmake, manually add a subdirectory 'build' in the source directory.
